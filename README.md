@@ -1,6 +1,5 @@
 # 🚀 ShiftPilot
 
----
 
 🌐 Acceso al proyecto:
 El código fuente completo de ShiftPilot Server se encuentra en un repositorio privado.
