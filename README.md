@@ -1,6 +1,3 @@
-# 🚀 ShiftPilot
-
-
 🌐 Acceso al proyecto:
 El código fuente completo de ShiftPilot Server se encuentra en un repositorio privado.
 Podés solicitar acceso o más información desde el enlace o contacto debajo 👇
@@ -8,6 +5,10 @@ Podés solicitar acceso o más información desde el enlace o contacto debajo �
 🔗 Repositorio privado (solicitar acceso): github.com/chope-dev/Shiftpilot-server
 
 📧 Contacto: santi.jrs.sg@gmail.com
+
+
+
+# 🚀 ShiftPilot
 
 
 **ShiftPilot** es una plataforma web para la gestión de turnos, licencias y reemplazos en empresas medianas. Permite a empleados, supervisores y administradores coordinar horarios de trabajo de forma eficiente, transparente y segura.
