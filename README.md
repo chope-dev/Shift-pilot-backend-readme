@@ -41,3 +41,13 @@ shiftpilot/
     ├── services/
     ├── middlewares/
     └── utils/
+
+
+🌐 Acceso al proyecto
+
+El código fuente completo de ShiftPilot Server se encuentra en un repositorio privado.
+Podés solicitar acceso o más información desde el enlace o contacto debajo 👇
+
+🔗 Repositorio privado (solicitar acceso): github.com/chope-dev/Shiftpilot-server
+
+📧 Contacto: santi.jrs.sg@gmail.com
