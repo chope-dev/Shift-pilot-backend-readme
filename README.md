@@ -10,12 +10,12 @@ Podés solicitar acceso o más información desde el enlace o contacto debajo �
 
 📧 Contacto: santi.jrs.sg@gmail.com
 
+---
 
 **ShiftPilot** es una plataforma web para la gestión de turnos, licencias y reemplazos en empresas medianas. Permite a empleados, supervisores y administradores coordinar horarios de trabajo de forma eficiente, transparente y segura.
 
 > Tecnologías: Next.js · Node.js (Express) · MongoDB · Docker · TypeScript
 
----
 
 ## 📦 Características principales
 
